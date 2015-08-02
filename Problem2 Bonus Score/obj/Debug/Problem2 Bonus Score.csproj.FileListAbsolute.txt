@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem2 Bonus Score\bin\Debug\Problem2 Bonus Score.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem2 Bonus Score\bin\Debug\Problem2 Bonus Score.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem2 Bonus Score\bin\Debug\Problem2 Bonus Score.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem2 Bonus Score\obj\Debug\Problem2 Bonus Score.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem2 Bonus Score\obj\Debug\Problem2 Bonus Score.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem2 Bonus Score\obj\Debug\Problem2 Bonus Score.pdb

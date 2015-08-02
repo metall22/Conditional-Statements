@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem3 Check for a play card\bin\Debug\Problem3 Check for a play card.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem3 Check for a play card\bin\Debug\Problem3 Check for a play card.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem3 Check for a play card\bin\Debug\Problem3 Check for a play card.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem3 Check for a play card\obj\Debug\Problem3 Check for a play card.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem3 Check for a play card\obj\Debug\Problem3 Check for a play card.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem3 Check for a play card\obj\Debug\Problem3 Check for a play card.csprojResolveAssemblyReference.cache

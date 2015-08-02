@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Conditional Statements\Problem8 Digit as a Word\bin\Debug\Problem8 Digit as a Word.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Conditional Statements\Problem8 Digit as a Word\bin\Debug\Problem8 Digit as a Word.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Conditional Statements\Problem8 Digit as a Word\bin\Debug\Problem8 Digit as a Word.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Conditional Statements\Problem8 Digit as a Word\obj\Debug\Problem8 Digit as a Word.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Conditional Statements\Problem8 Digit as a Word\obj\Debug\Problem8 Digit as a Word.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Conditional Statements\Problem8 Digit as a Word\obj\Debug\Problem8 Digit as a Word.pdb

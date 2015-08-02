@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem4 Multiplication Sign\bin\Debug\Problem4 Multiplication Sign.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem4 Multiplication Sign\obj\Debug\Problem4 Multiplication Sign.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem4 Multiplication Sign\bin\Debug\Problem4 Multiplication Sign.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem4 Multiplication Sign\bin\Debug\Problem4 Multiplication Sign.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem4 Multiplication Sign\obj\Debug\Problem4 Multiplication Sign.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Conditional Statements\Problem4 Multiplication Sign\obj\Debug\Problem4 Multiplication Sign.pdb
